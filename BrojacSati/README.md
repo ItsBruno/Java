@@ -1,2 +1,2 @@
 A program that gives you information about your workhours
-Requires workhours data in a certain format
+Requires data about workhours in a certain format
